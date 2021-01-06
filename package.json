@@ -16,7 +16,7 @@
   "author": "topjohnwu",
   "license": "GPL-3.0",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^=0.21.1"
     "body-parser": "^1.19.0",
     "buffer-equal-constant-time": "^1.0.1",
     "express": "^4.17.1",
